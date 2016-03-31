@@ -1,0 +1,31 @@
+1 2 3 4 5
+T = 0
+first customer = 1 time 1
+second customer = 2 time 2
+T = 1
+3 customer = 1 time 1
+2 customer = 2 time 1
+T = 2
+4th Custome = 1 time 1
+5th customer = 2 time 2
+
+
+T = 0
+1 - 1 - 1
+2 - 2 - 2
+3 - 3 - 3
+T = 1
+4 - 1 - 1
+2 - 2 - 1
+3 - 3 - 2
+T = 2
+5 - 1 - 1
+6 - 2 - 2
+3 - 3 - 1
+T = 3
+7 - 1 - 1
+6 - 2 - 1
+8 - 3 - 3
+T = 4
+T = 5
+T = 6
